@@ -15,3 +15,7 @@
 ## 数字推理
 
 * [Page 1](shu-zi-tui-li/page-1.md)
+
+## 常用算法
+
+* [最小公倍数算法](chang-yong-suan-fa/zui-xiao-gong-bei-shu-suan-fa.md)
