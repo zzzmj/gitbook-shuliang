@@ -19,3 +19,4 @@
 ## 常用算法
 
 * [最小公倍数算法](chang-yong-suan-fa/zui-xiao-gong-bei-shu-suan-fa.md)
+* [最大公约数算法](chang-yong-suan-fa/zui-da-gong-yue-shu-suan-fa.md)
