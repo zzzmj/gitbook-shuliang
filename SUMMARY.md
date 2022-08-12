@@ -5,7 +5,7 @@
 ## 应用题
 
 * [⭐ 行程问题](ying-yong-ti/hang-cheng-wen-ti.md)
-* [Meet the Team!](ying-yong-ti/meet-the-team.md)
+* [工程问题](ying-yong-ti/gong-cheng-wen-ti.md)
 
 ## 排列组合与概率
 
