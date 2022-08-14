@@ -9,7 +9,7 @@
 
 ## 排列组合与概率
 
-* [Requesting Time Off](pai-lie-zu-he-yu-gai-shuai/requesting-time-off.md)
+* [⭐ 排列组合问题](pai-lie-zu-he-yu-gai-shuai/pai-lie-zu-he-wen-ti.md)
 * [Filing Expenses](pai-lie-zu-he-yu-gai-shuai/filing-expenses.md)
 
 ## 数字推理
