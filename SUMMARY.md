@@ -12,6 +12,7 @@
 * [⭐ 排列组合问题](pai-lie-zu-he-yu-gai-shuai/pai-lie-zu-he-wen-ti/README.md)
   * [一对一模型](pai-lie-zu-he-yu-gai-shuai/pai-lie-zu-he-wen-ti/yi-dui-yi-mo-xing.md)
   * [多对一模型](pai-lie-zu-he-yu-gai-shuai/pai-lie-zu-he-wen-ti/duo-dui-yi-mo-xing.md)
+  * [特殊模型](pai-lie-zu-he-yu-gai-shuai/pai-lie-zu-he-wen-ti/te-shu-mo-xing.md)
 * [概率问题](pai-lie-zu-he-yu-gai-shuai/gai-shuai-wen-ti.md)
 
 ## 数字推理
