@@ -4,6 +4,7 @@
 
 ## 应用题
 
+* [周期问题](ying-yong-ti/zhou-qi-wen-ti.md)
 * [⭐ 行程问题](ying-yong-ti/hang-cheng-wen-ti.md)
 * [工程问题](ying-yong-ti/gong-cheng-wen-ti.md)
 
